@@ -24,7 +24,7 @@ I combine hands-on iOS development with professional experience in **high-availa
 🚀 Actively building iOS projects and looking for my first full-time iOS Developer role.  
 
 - 🤝 Open to collaborating on iOS and open-source projects  
-- 💬 Ask me about SwiftUI, state management, or app architecture  
+- 💬 Ask me about SwiftUI, app architecture, or anything iOS-related — happy to chat :)  
 - 🎮 Outside tech: videogames, music, films, and books  
 
 ---
