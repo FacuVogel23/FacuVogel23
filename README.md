@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/FacuVogel23">
   <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&pause=1000&color=F7965D&center=true&vCenter=true&width=490&lines=iOS+Developer;Swift+%26+SwiftUI+Enthusiast;Building+Modern+iOS+Apps;Always+Learning+New+Things!" alt="Typing SVG" />
 </a>
 </p>
@@ -90,27 +90,40 @@ SQL | Oracle SQL Developer | DB2 | Agile/Scrum | ServiceNow
 ---
 
 ## 📫 Let’s Connect!
+<table>
+  <tr>
+    <td width="60">
+      <a href="https://www.linkedin.com/in/facundo-vogel/">
+        <img src="https://skillicons.dev/icons?i=linkedin" style="width:28px; min-width:28px;">
+      </a>
+    </td>
+    <td>
+      linkedin.com/in/facundo-vogel
+    </td>
+  </tr>
 
-<p style="display: flex; align-items: center; gap: 8px;">
-  <a href="https://www.linkedin.com/in/facundo-vogel/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="24"/>
-  </a>
-  <span>linkedin.com/in/facundo-vogel</span>
-</p>
+  <tr>
+    <td width="60">
+      <a href="mailto:facundovogel23@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" style="width:28px; min-width:28px;">
+      </a>
+    </td>
+    <td>
+      facundovogel23@gmail.com
+    </td>
+  </tr>
 
-<p style="display: flex; align-items: center; gap: 8px;">
-  <a href="mailto:facundovogel23@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="24"/>
-  </a>
-  <span>facundovogel23@gmail.com</span>
-</p>
-
-<p style="display: flex; align-items: center; gap: 8px;">
-  <a href="https://x.com/kqDevs">
-    <img src="https://skillicons.dev/icons?i=twitter" width="24"/>
-  </a>
-  <span>x.com/kqDevs</span>
-</p>
+  <tr>
+    <td width="60">
+      <a href="https://x.com/kqDevs">
+        <img src="https://skillicons.dev/icons?i=twitter" style="width:28px; min-width:28px;">
+      </a>
+    </td>
+    <td>
+      x.com/kqDevs
+    </td>
+  </tr>
+</table>
 
 ---
 
