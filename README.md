@@ -60,7 +60,7 @@ iOS app displaying information about NASA Apollo missions and astronauts.
 - Grid/List layout toggle with animated transitions  
 - Local JSON parsing and structured data modeling  
 
-👉 <a href="https://github.com/FacuVogel23/Moonshot">github.com/FacuVogel23/DailyBudget</a>
+👉 <a href="https://github.com/FacuVogel23/Moonshot">github.com/FacuVogel23/Moonshot</a>
 
 ---
 
@@ -128,5 +128,5 @@ SQL | Oracle SQL Developer | DB2 | Agile/Scrum | ServiceNow
 ---
 
 <p align="center">
-✨ Always building. Always improving.
+  🔎 Explore more iOS projects below! 👇
 </p>
