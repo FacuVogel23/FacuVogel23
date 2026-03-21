@@ -43,10 +43,10 @@ I combine hands-on iOS development with professional experience in **high-availa
 ### 💰 DailyBudget  
 Personal finance iOS app to manage daily budgets and track expenses.
 
-- Built with SwiftUI using reactive state management  
-- Real-time calculations and input validation  
-- Custom ViewModifiers and reusable UI components  
-- Clean and modular structure  
+- SwiftData — expense data | UserDefaults — daily budget amount and confirmation state
+- MVVM Architecture
+- @Observable and @Bindable for reactive state management
+- NavigationStack, ScrollView, LazyVStack
 
 👉 <a href="https://github.com/FacuVogel23/DailyBudget">github.com/FacuVogel23/DailyBudget</a>
 
